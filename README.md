@@ -1,5 +1,6 @@
 # Machine Learning
-## 100 Days ML Challenge
-I am going to track my progress throughout the challenge. I have arranged all the resources that I need to study on a [trello board](https://trello.com/b/IfthVJ3q). In addition to the study material, projects done during this course are hosted on this repository as well.
+Starting from the New Year 2020, I have promised myself that I will learn AI/ML and its applications. After doing a considerable amount of research, I have created a syllabus on [trello](https://trello.com/b/WTAfa9fW) and this repository where I plan to track my progress, upload the projects/code that I will be developing as a part of my ML journey. Please note, that the syllabus, order of lessons/courses, etc. are still very fluid, as it is stil the first week of Jan :). As I finish the courses get a hang of the subject, I will keep updating this readme file and the repo. Also, I have created the trello board as a template for anyone to copy it, which is why there are no courses in WIP or Completed lists. I will be updating my progress on this page, instead.
 
-### Day 1 - Jan 1, 2020
+I promise that I will provide more details about my background, why ML, why I've chosen what I've chosen, my experiences with each course/book/video, and all other details, in due course of time. Until then, I think it should suffice to say that I am an absolute newbie to ML, although I am familiar to the underlying concepts, like Linear Algebra, Calculus, Statistics, Probability, and have decent programming knowledge. Therefore, if was a beginner looking for resources to learn ML from scratch in 2020, I'd copy the above trello board and modify it according to my skills and background.
+
+Happy Learning!!
