@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: time-machine
 title: Welcome to Vamsi's page!
 tagline: site under construction
 description: My jobs and achievements
