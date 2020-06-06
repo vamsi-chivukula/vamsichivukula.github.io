@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Welcome to Vamsi's page!
 tagline: site under construction
 description: Showcase of my projects and skillsets
