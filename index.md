@@ -2,7 +2,7 @@
 layout: page
 title: Welcome to Vamsi's page!
 tagline: site under construction
-description: My showcase of projects and owrks that I've done
+description: Showcase of my projects and skillsets
 ---
 
 # Machine Learning
