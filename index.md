@@ -1,8 +1,8 @@
 ---
-layout: time-machine
+layout: page
 title: Welcome to Vamsi's page!
 tagline: site under construction
-description: My jobs and achievements
+description: My showcase of projects and owrks that I've done
 ---
 
 # Machine Learning
