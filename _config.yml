@@ -1,6 +1,2 @@
 theme: jekyll-theme-time-machine
-title: Welcome to Vamsi's homepage!
-description: This site is under construction. Please feel free to bookmark this page and keep an eye for my updates :-)
-include:
-  - README.md
-  - resources.md
+exclude: ["ReadMe.md", "Rakefile", "License.md"]
