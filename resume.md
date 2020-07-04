@@ -1,12 +1,11 @@
 Vamsi Chivukula
-============
+===============
 
-----------------------------------      ---
-              vamsichivu@gmail.com
-www.linkedin.com/in/vamsichivukula
-                   @vamsichivukula
-               +1 (508) 333 - 7898
-----------------------------------      ---
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
 Education
 ---------
