@@ -1,11 +1,12 @@
-Johnny Coder
+Vamsi Chivukula
 ============
 
-----------------------------------
+---------------------------------- ---
               vamsichivu@gmail.com
 www.linkedin.com/in/vamsichivukula
+                   @vamsichivukula
                +1 (508) 333 - 7898
-----------------------------------
+---------------------------------- ---
 
 Education
 ---------
